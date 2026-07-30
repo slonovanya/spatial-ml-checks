@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# данные не коммитим, фигуры коммитим — они нужны в README
+data/*
+!data/.gitkeep
+.ipynb_checkpoints/
+.venv/
