@@ -222,15 +222,3 @@ data/*
 !data/.gitkeep
 .ipynb_checkpoints/
 .venv/
-
-# данные не коммитим, фигуры коммитим — они нужны в README
-data/*
-!data/.gitkeep
-.ipynb_checkpoints/
-.venv/
-
-# данные не коммитим, фигуры коммитим — они нужны в README
-data/*
-!data/.gitkeep
-.ipynb_checkpoints/
-.venv/
